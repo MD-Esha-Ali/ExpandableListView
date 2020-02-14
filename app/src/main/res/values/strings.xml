@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+    <string-array name="Expandbile_List_View_header_all_names">
+        <item>ACC</item>
+        <item>AI</item>
+        <item>ARPANET</item>
+        <item>ALGOL</item>
+        <item>ALU</item>
+        <item>AOL</item>
+        <item>API</item>
+        <item>APT</item>
+        <item>ARP</item>
+        <item>ASP</item>
+        <item>ATM</item>
+        <item>AVI</item>
+        <item>ASCII</item>
+        <item>AT</item>
+        <item>AUI</item>
+        <item>BASIC</item>
+        <item>BCD</item>
+        <item>BHTML</item>
+        <item>BMP</item>
+        <item>BIOS</item>
+        <item>B2B</item>
+        <item>BIU</item>
+        <item>BPS</item>
+        <item>BCC</item>
+        <item>CC</item>
+        <item>CAI</item>
+        <item>CDMA</item>
+        <item>CRT</item>
+        <item>CRT</item>
+    </string-array>
+
+    <string-array name="Expandbile_List_View_child_all_names">
+        <item>Advanced CC</item>
+        <item>AI</item>
+        <item>ARPANET</item>
+        <item>ALGOL</item>
+        <item>ALU</item>
+        <item>AOL</item>
+        <item>API</item>
+        <item>APT</item>
+        <item>ARP</item>
+        <item>ASP</item>
+        <item>ATM</item>
+        <item>AVI</item>
+        <item>ASCII</item>
+        <item>AT</item>
+        <item>AUI</item>
+        <item>BASIC</item>
+        <item>BCD</item>
+        <item>BHTML</item>
+        <item>BMP</item>
+        <item>BIOS</item>
+        <item>B2B</item>
+        <item>BIU</item>
+        <item>BPS</item>
+        <item>BCC</item>
+        <item>CC</item>
+        <item>CAI</item>
+        <item>CDMA</item>
+        <item>CRT</item>
+        <item>CRT</item>
+    </string-array>
+</resources>
